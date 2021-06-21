@@ -1,0 +1,7 @@
+{
+  "side-dishes": [
+    { "id": 1, "name": "Fried fries", "price": 3 },
+    { "id": 2, "name": "Fried fries with bacon", "price": 4},
+    { "id": 3, "name": "Fried fries with bacon and cheese", "price": 5}
+  ]
+}
